@@ -1,85 +1,98 @@
-title: example-title
+title: Flora Norvegica: botansik dugnad
 type: document
-image: /example-image.jpg
-description: example-description
+image: /FN3.jpg
+description: “Gunnerus var mannen som ble prest uten teologisk embetseksamen, som ble biskop uten å ha hatt et ordinært sognekall, og som skrev Norges første flora uten å ha studert botanikk.” (Jørgensen et al, 2016:11) Her er den første oversettelsen til norsk av Flora Norvegica, først utgitt på latin av Johan Ernest Gunnerus i 1766. Det var den første floraverket for Norge. Bli med på botanisk dugnad og hjelp oss digitalisere denne legendariske delen av den norske kulturarven. Med din hjelp kan datidens plante- og kulturkunnskaper leve videre. Ta gjerne en titt på introduksjonsteksten for å kunne komme i gang med botanisk dugnad!
 georeference: true
 template: pdf
 help:
-  introduction: example-help-introduction
+  introduction: Gunnerus sin Flora er ikke bygd systematisk. Artene er i tilfeldige ordning, tilsynelatende ettersom Gunnerus ble kjent med dem. Plantene ble samlet hovedsakelig i Gunnerus sin bispedømme, som omfattet alle regioner fra Romsdal i Møre og Romsdal til ØstFinnmark, like til grensen mot Russland. Totalt inneholder boken 1118 forskjellige plantearter. Oppgaven din er å fylle ut et indekskort for hver planteart. Indekskortet er bygd opp av forskjellige parametere, blant annet løpenummer, vitenskapelig navn, norsk navn, og bruk. Vær oppmerksom på informasjon kan være mangelfull. Korreksjoner eller kommentarer lagt inn i oversettelsen er interessante for oss, og de vil være i hakeparentes. Løpenummer: Løpenummeret er angitt med romertall og arabiske tall i hakeparentes. Eksempel: V [5]. Gunnerus vitenskapelig navn: Gunnerus sin vitenskapelig navn er neste begrep i hver art. Dette navnet består av to ord, på latinsk. Eksempel: Pulmonaria maritima. Ny vitenskapelig navn: Gunnerus brukte vitenskapelig navn før denne nomenklaturen ble standardisert. Derfor har noen av artene hans blitt gitt nye navn. Den nye vitenskapelige navnet vil du finne i hakeparentes, og kan være lik Gunnerus sin. Eksempel: [Mertensia maritima (...) Norsk navn: Det norske navnet er det folkelige navnet vi kaller arten etter i dag. Den vil være rett etter det nye vitenskapelige navnet innen hakeparentesen. Eksempel: (...), østersurt]. Kommentar om navnet: Her kan du legge inn noe tilleggsinformasjon eller kommentarer om navn. Eksempel: På norsk Kræke-, Krykke- eller Kreike-bær; Kræke-lyng, Krækling (konferer Pontoppidan. H.N.N. I c. V § 3 s. 212, 214). På samisk Kiuma, Kiuoma, Kiubma, Tiuoma, dessuten Zhiappes eller Zhiaëppes-morjek (det er svarte bær). Bruk: Hvordan blir denne planten brukt? Her kan det være mye tekst, eller svær lite. Eksempel: En oppløsning av bladene, og fortrinnsvis stenglene, er velegnet til å rense blodet. Lokalitet: Hvor ble den arten funnet? Det er som regel ganske lite informasjon om dette. Eksempel: Vokser i Åfjord og ofte i Nordlandene; dessuten på gården Stene [Steinan].
+
 source:
-  document: /link/to/source/document.pdf
-  pages: 176
-  shift: -1
+  document: /link/to/source/Jorgensen et al 2016 - Flora Norvegica Gunnerus.pdf
+  pages: 508
+  shift: -2
   index:
-    - { page: 27, text: Første indvandrere }
-    - { page: 27, text: Røie (Salmo alpinus), scientificName: Salmo alpinus }
-    - { page: 45, text: 3-pigget stingsild (Gasterosteus aculeatus), scientificName: Gasterosteus aculeatus }
-    - { page: 48, text: Ørret (Salmo eriox), scientificName: Salmo eriox }
-    - { page: 49, text: Finnmarksfiskene }
-    - { page: 49, text: Sik (Coregonus lavaretus), scientificName: Coregonus lavaretus  }
-    - { page: 52, text: Abbor (Perca fluviatilis), scientificName: Perca fluviatilis }
-    - { page: 57, text: Lake (Lota lota), scientificName: Lota lota }
-    - { page: 60, text: Gjedde (Esox lucius), scientificName: Esox lucius }
-    - { page: 64, text: Harr (Thymallus thymallus), scientificName: Thymallus thymallus }
-    - { page: 67, text: Ørekyte (Phoxinus aphya), scientificName: Phoxinus aphya }
-    - { page: 71, text: Elvenegenøie (Petromyzon fluviatilis), scientificName: Petromyzon fluviatilis }
-    - { page: 73, text: 10-pigget stingsild (Gastoresteus pingitius), scientificName: Gastoresteus pingitius }
-    - { page: 74, text: Mjøsen – (Odals) Storsjøfiskene }
-    - { page: 74, text: Mort (Leuciscus rutilus), scientificName: Leuciscus ritulus }
-    - { page: 77, text: Lagesild (Coregonus albula), scientificName: Coregonus albula }
-    - { page: 78, text: Slom (Osmerus eperlanus), scientificName: Osmerus eperlanus }
-    - { page: 80, text: Brasme (Abramis brama), scientificName: Abramis brama }
-    - { page: 81, text: Lane (Aspius alburnus), scientificName: Aspius alburnus }
-    - { page: 82, text: Haslong (Leuciscus grislagine), scientificName: Leuciscus grislagine }
-    - { page: 84, text: Vederbuk (Leuciscus idus), scientificName: Leuciscus idus }
-    - { page: 85, text: Steinsmet (Cottus gobio v. poecilopus), scientificName: Cottus gobio v. poecilopus }
-    - { page: 86, text: Hork (Acerina cernua), scientificName: Acerina cernua }
-    - { page: 87, text: Øieren – Smaalensfiskene }
-    - { page: 87, text: Flire (Abramis blicca), scientificName: Abramis blicca }
-    - { page: 89, text: Gjørs (Lucioperca lucioperca), scientificName: Lucioperca lucioperca }
-    - { page: 89, text: Stamme (Leuciscus cephalus), scientificName: Leuciscus cephalus }
-    - { page: 90, text: Asp (Aspius aspius), scientificName: Aspius aspius }
-    - { page: 90, text: Sørv (Leuciscus erythropthalmus), scientificName: Leuciscus erythropthalmus }
-    - { page: 91, text: Fiskearter som kun en del av sit liv opholder sig i ferskvand }
-    - { page: 91, text: Laks (Salmo salar), scientificName: Salmo salar }
-    - { page: 93, text: Skrubbeflyndre (Pleuronectes flemus), scientificName: Pleuronectes flemus }
-    - { page: 94, text: Aal (Anguilla anguilla), scientificName: Anguilla anguilla }
-    - { page: 98, text: Havnegenøie (Petromyzon marinus), scientificName: Petromyzon marinus }
-    - { page: 99, text: Fiskearter (og varieteter) som i historisk tid er indført i Norge }
-    - { page: 99, text: Karus (Cyprinus carassius), scientificName: Cyprinus carassius }
-    - { page: 100, text: Karpe (Cyprinus carpio), scientificName: Cyprinus carpio }
-    - { page: 100, text: Suter (Thinca vulgaris), scientificName: Thinca vulgaris }
-    - { page: 100, text: Guldfisk (Cyprinus auratus), scientificName: Cyprinus auratus }
-    - { page: 101, text: Bækkerøie (Salmo fontinalis), scientificName: Salmo fontinalis }
-    - { page: 101, text: Dvergmalle (Amiurus catus), scientificName: Amiurus catus }
-    - { page: 101, text: Blackbas (Micropterus salmonoides), scientificName: Micropterus salmonides }
-    - { page: 101, text: Regnbueørret (Salmo iridens), scientificName: Salmo iridens }
-    - { page: 102, text: Guldvederbuk (Leuciscus idus v. auratus), scientificName: Leuciscus idus v. auratus }
-    - { page: 102, text: Krebsens utbredelse og indvandring }
-    - { page: 104, text: Literaturfortegnelse }
-    - { page: 108, text: Kartfortegnelse }
+    - { page: 67, text: I [1] strutseving, Løpenummer: I [1], Norsk navn: strutseving }
+    - { page: 81, text: XX [20] linbendel, Løpenummer: XX [20], Norsk navn: linbendel }
+    - { page: 88, text: XL [40] gul frøstjerne, Løpenummer: XL [40], Norsk navn: gul frøstjerne }
+    - { page: 95, text: LX [60] timotei, Løpenummer: LX [60], Norsk navn: timotei }
+    - { page: 101, text: LXXX [80] kildeurt, Løpenummer: LXXX [80], Norsk navn: kildeurt }
+    - { page: 109, text: C [100] svarttopp, Løpenummer: C [100], Norsk navn: svarttopp }
+    - { page: 115, text: CXX [120] nikkevintergrønn, Løpenummer: CXX [120], Norsk navn: nikkevintergrønn }
+    - { page: 119, text: CXL [140] haredylle, Løpenummer: CXL [140], Norsk navn: haredylle }
+    - { page: 125, text: CLX [160] issoleie, Løpenummer: CLX [160], Norsk navn: issoleie }
+    - { page: 130, text: CLXXX [180] maiblom, Løpenummer: CLXXX [180], Norsk navn: maiblom }
+    - { page: 135, text: CC [200] kjempesøtgras, Løpenummer: CC [200], Norsk navn: kjempesøtgras }
+    - { page: 142, text: CCXX [220] tappgåseblom, Løpenummer: CCXX [220], Norsk navn: tappgåseblom }
+    - { page: 147, text: CCXL [240] gullris, Løpenummer: CCXL [240], Norsk navn: gullris }
+    - { page: 152, text: CCLX [260] flôghavre, Løpenummer: CCLX [260], Norsk navn: flôghavre }
+    - { page: 156, text: CCLXXX [280] einer, Løpenummer: CCLXXX [280], Norsk navn: einer }
+    - { page: 161, text: CCC [300] skrubbær, Løpenummer: CCC [300], Norsk navn: skrubbær }
+    - { page: 188, text: CCCXX [320] stortrollur, Løpenummer: CCCXX [320], Norsk navn: stortrollur }
+    - { page: 194, text: CCCXL [340] havsivaks, Løpenummer: CCCXL [340], Norsk navn: havsivaks }
+    - { page: 199, text: CCCLX [360] cladonia, Løpenummer: CCCLX [360], Gunnerus vitenskapelig navn: cladonia }
+    - { page: 204, text: CCCLXXX [380] sommereik, Løpenummer: CCCLXXX [380], Norsk navn: sommereik }
+    - { page: 210, text: CCCC [400] kamilleblom, Løpenummer: CCCC [400], Norsk navn: kamilleblom }
+    - { page: 215, text: CCCCXX [420] barlind, Løpenummer: CCCCXX [420], Norsk navn: barlind }
+    - { page: 220, text: CCCCXL [440] hvit nøkkerose, Løpenummer: CCCCXL [440], Norsk navn: hvit nøkkerose }
+    - { page: 226, text: CCCCLX [460] knollkjeks, Løpenummer: CCCCLX [460], Norsk navn: knollkjeks }
+    - { page: 230, text: CCCCLXXX [480] tvillingsiv, Løpenummer: CCCCLXXX [480], Norsk navn: tvillingsiv }
+    - { page: 235, text: D [500] småpiggknopp, Løpenummer: D [500], Norsk navn: småpiggknopp }
+    - { page: 241, text: DXX [520] småvasshår, Løpenummer: DXX [520], Norsk navn: småvasshår }
+    - { page: 245, text: DXL [540] rødmelde, Løpenummer: DXL [540], Norsk navn: rødmelde }
+    - { page: 252, text: DLX [560] hornlav, Løpenummer: DLX [560], Norsk navn: hornlav }
+    - { page: 257, text: DLXXX [580] palmemose, Løpenummer: DLXXX [580], Norsk navn: palmemose }
+    - { page: 262, text: DC [600] fjellrapp, Løpenummer: DC [600], Norsk navn: fjellrapp }
+    - { page: 265, text: DCXX [620] begerhagtorn, Løpenummer: DCXX [620], Norsk navn: begerhagtorn }
+    - { page: 270, text: DCXL [640] fjelltettegras, Løpenummer: DCXL [640], Norsk navn: fjelltettegras }
+    - { page: 275, text: DCLX [660] tannkrusmose, Løpenummer: DCLX [660], Norsk navn: tannkrusmose }
+    - { page: 280, text: DCLXXX [680] blindurt, Løpenummer: DCLXXX [680], Norsk navn: blindurt }
+    - { page: 284, text: DCC [700] strandrør, Løpenummer: DCC [700], Norsk navn: strandrør }
+    - { page: 288, text: DCCXX [720] veitistel, Løpenummer: DCCXX [720], Norsk navn: veitistel }
+    - { page: 293, text: DCCXL [740] lodnestarr, Løpenummer: DCCXL [740], Norsk navn: lodnestarr }
+    - { page: 297, text: DCCLX [760] småklokkebeger, Løpenummer: DCCLX [760], Norsk navn: småklokkebeger }
+    - { page: 301, text: DCCLXXX [780] fjæresaltgras, Løpenummer: DCCLXXX [780], Norsk navn: fjæresaltgras }
+    - { page: 304, text: DCCC [800] kråkekarse, Løpenummer: DCCC [800], Norsk navn: kråkekarse }
+    - { page: 310, text: DCCCXX [820] rosmarinvier, Løpenummer: DCCCXX [820], Norsk navn: rosmarinvier }
+    - { page: 314, text: DCCCXL [840] slyngball, Løpenummer: DCCCXL [840], Norsk navn: slyngball }
+    - { page: 320, text: DCCCLX [860] krypsilkemose, Løpenummer: DCCCLX [860], Norsk navn: krypsilkemose }
+    - { page: 324, text: DCCCLXXX [880] nål-art, Løpenummer: DCCCLXXX [880], Norsk navn: nål-art }
+    - { page: 328, text: DCCCC [900] riddermusserong, Løpenummer: DCCCC [900], Norsk navn: riddermusserong}
+    - { page: 332, text: DCCCCXX [920] gullhavre, Løpenummer: DCCCCXX [920], Norsk navn: gullhavre }
+    - { page: 336, text: DCCCCXL [940] rosenlav, Løpenummer: DCCCCXL [940], Norsk navn: rosenlav }
+    - { page: 341, text: DCCCCLX [960] strandvindel, Løpenummer: DCCCCLX [960], Norsk navn: strandvindel }
+    - { page: 350, text: DCCCCLXXX [980] finkefrø, Løpenummer: DCCCCLXXX [980], Norsk navn: finkefrø }
+    - { page: 354, text: M [1000] ægsopp, Løpenummer: M [1000], Norsk navn: ægsopp }
+    - { page: 361, text: MXX [1020] Rhizocarpon oederi, Løpenummer: MXX [1020], Gunnerus vitenskapelig navn: Rhizocarpon oederi }
+    - { page: 366, text: MXXX [1040] beltesølvpigg, Løpenummer: MXXX [1040], Norsk navn: beltesølvpigg }
+    - { page: 372, text: MLX [1060] bryum, Løpenummer: MLX [1060], Gunnerus vitenskapelig navn: bryum }
+    - { page: 377, text: MLXXX [1080] høyfjellsklokke, Løpenummer: MLXXX [1080], Norsk navn: høyfjellsklokke }
+    - { page: 381, text: MC [1100] skredarve, Løpenummer: MC [1100], Norsk navn: skredarve }
   dzi: /static/huitfeldt/
 key: _none
 markings: True
-sticky: scientificName, currentPage
-order: [ annotation, taxonomy, locality, comment ]
+sticky: Løpenummer, Norsk navn, currentPage
+order: [Løpenummer, Taksonomi, Geografi, Etnobotanikk, Kommentar ]
 forms:
-  annotation:
-    - { name: "annotation", type: annotation }
-    - { name: "currentPage", type: hidden }
-  taxonomy:
-    - { name: "scientificName", type: text, pick: [Salmo alpinus, Gasterosteus aculeatus, Salmo eriox, Coregonus lavaretus, Perca fluviatilis, Lota lota, Esox lucius, Thymallus thymallus, Phoxinus aphya, Petromyzon fluviatilis, Gastoresteus pingitius, Leuciscus ritulus, Coregonus albula, Osmerus eperlanus, Abramis brama, Aspius alburnus, Leuciscus grislagine, Leuciscus idus, Cottus gobio v. poecilopus, Acerina cernua, Abramis blicca, Lucioperca lucioperca, Leuciscus cephalus, Aspius aspius, Leuciscus erythropthalmus, Salmo salar, Pleuronectes flemus, Anguilla anguilla, Petromyzon marinus, Cyprinus carassius, Cyprinus carpio, Thinca vulgaris, Cyprinus auratus, Salmo fontinalis, Amiurus catus, Micropterus salmonides, Salmo iridens, Leuciscus idus v. auratus] }
-  locality:
-    - { name: "locality", type: text, path: "/lookup/nve" }
-    - { name: "footprintWKT", type: text, disabled: true }
-    - { name: "locationID", type: text }
-    - { name: "verbatimElevation", type: text }
-    - { name: "decimalLatitude", type: hidden }
-    - { name: "decimalLongitude", type: hidden }
-    - { name: "coordinateUncertaintyInMeters", type: hidden }
-    - { name: "introduced", type: checkbox }
-  comment:
-    - { name: "annotationRemarks", type: textfield }
+  Løpenummer:
+    - { name: "Løpenummer", type: text }
+    - { name: "currentPage", type: hidden }
+  Taksonomi:
+    - { name: "Gunnerus vitenskapelig navn", type: text }
+    - { name: "Ny vitenskapelig navn", type: text }
+  Geografi:
+    - { name: "Lokalitet", type: text }
+    - { name: "Navn lokalitet", type: text }
+    - { name: "Bruk lokalitet", type: text }
+  Etnobotanikk:
+    - { name: "Norsk navn", type: text }
+    - { name: "Kommentar om navnet", type: text }
+    - { name: "Bruk", type: text }
+  Kommentar:
+    - { name: "Kommentar", type: text }
 submit: transcribe
-sort: ['scientificName', 'locality']
+sort: ['Ny vitenskapelig navn']
+
+
+
 
